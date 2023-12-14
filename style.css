@@ -1,0 +1,54 @@
+.CSE{
+    color: blueviolet;
+}
+.AI{
+    color : orange
+}
+.ECE{
+    color : orangered;
+}
+.para{
+    font-size: 20px;
+    font-weight: bold;
+}
+.para2{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+#para3{
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+.box{
+    border: 2px solid orangered;
+    color: red;
+    font-size: larger;
+}
+.container{
+    border: 5px solid orangered;
+    border-radius:10px;
+    width: 600px;
+    margin: 0 0 0 400px;
+}
+.text{
+    font-size: 30px;
+    font-weight: bold;
+    color: orangered;
+    margin-left : 300px;
+}
+span{
+    font-size: 50px;
+    font-weight: bold;
+    color: orangered;
+    text-shadow: 1px 1px 3px black, 0px 0px 25px black;
+    margin-right: 170px;
+    margin-left: 170px;
+
+}
+.c1{
+    margin-left : 650px;
+    font-weight: bold;
+    font-style: oblique;
+}
